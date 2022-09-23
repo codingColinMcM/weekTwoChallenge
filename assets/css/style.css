@@ -1,0 +1,9 @@
+table {
+    width: 80%;
+    float: right;
+}
+
+.portfolioPic img {
+    width: 19%;
+    float: left;
+}
