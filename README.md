@@ -8,4 +8,8 @@ click on elements that contain hyperlinks, such as project images or an element 
 
 ## Screenshot
 
+![image](https://user-images.githubusercontent.com/112663656/192445347-4d7235cd-13d4-4119-8b16-63ee7d31c867.png)
+
 ## Link to deployed app
+
+https://codingcolinmcm.github.io/weekTwoChallenge/Portfolio.html
