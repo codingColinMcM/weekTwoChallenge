@@ -28,9 +28,9 @@
     margin-left: 25px;
 }
 
-table, th, td {
+/* table, th, td {
     border: 1px solid black;
-}
+} */
 
 .nicePic table {
     width: 100%;
@@ -79,12 +79,12 @@ table, th, td {
 .leftSide table {
     width: 19%;
     float: left;
-    border: 1px solid rgb(0, 0, 0);
     height: 100%;
 }
 
 .aboutMe h1 {
-    height: 30%;
+    display: inline-block;
+    vertical-align: top;
 }
 
 .myProjects h1 {
@@ -92,9 +92,26 @@ table, th, td {
 }
 
 .contactInfo h1 {
-    height: 10%;
+    display: inline-block;
+    vertical-align: bottom;
 }
 
 .firstApp img {
     max-width: 1000px;
+}
+
+.secondApp img {
+    max-height: 200px;
+}
+
+.thirdApp img {
+    max-height: 200px;
+}
+
+.fourthApp img {
+    max-height: 200px;
+}
+
+.fifthApp img {
+    max-height: 200px;
 }
