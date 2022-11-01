@@ -12,4 +12,4 @@ click on elements that contain hyperlinks, such as project images or an element 
 
 ## Link to deployed app
 
-https://codingcolinmcm.github.io/weekTwoChallenge/Portfolio.html
+https://codingcolinmcm.github.io/weekTwoChallenge/
